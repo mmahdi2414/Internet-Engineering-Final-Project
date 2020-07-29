@@ -1,0 +1,16 @@
+{
+  "name": "Internet-Engineering-Final-Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mmahdi2414/Internet-Engineering-Final-Project",
+  "author": "<m.mahdi2414@gmail.com>",
+  "license": "MIT",
+    "workspaces": [
+    "internetengineeringfinalprojectreact",
+    "express-final-project"
+  ],
+  "scripts": {
+    "start": "yarn --cwd express-final-project start",
+    "build": "yarn --cwd internetengineeringfinalprojectreact build"
+  }
+}

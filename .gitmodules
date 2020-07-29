@@ -1,0 +1,6 @@
+[submodule "express-final-project"]
+	path = express-final-project
+	url = https://gitlab.com/m.mahdi2414/express-final-project
+[submodule "internetengineeringfinalprojectreact"]
+	path = internetengineeringfinalprojectreact
+	url = https://gitlab.com/madsams024/internetengineeringfinalprojectreact
